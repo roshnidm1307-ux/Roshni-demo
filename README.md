@@ -1,2 +1,3 @@
 # Roshni-demo
-This is  first git repository
+This is  first Git repository
+Author-Roshni Prajapati
